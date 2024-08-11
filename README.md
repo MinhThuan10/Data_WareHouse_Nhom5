@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/03266212-2d43-4f33-b2ae-636e88463b05)# Data_WareHouse_Nhom5
 
 ## PHẦN 1: DIMENTION MODELING OLIST
 
@@ -19,22 +18,22 @@
 ### Import Dimension and Fact
 
 * **Date Dimension**
-  ![image](https://github.com/user-attachments/assets/7dbbdd38-0b56-4191-ac72-437e753ca3a2)
+![image](https://github.com/user-attachments/assets/7dbbdd38-0b56-4191-ac72-437e753ca3a2)
 
 * **Customers Dimension**
-  ![image](https://github.com/user-attachments/assets/afb933c3-cf57-4da7-abc4-bbd3bfa67f30)
+![image](https://github.com/user-attachments/assets/afb933c3-cf57-4da7-abc4-bbd3bfa67f30)
 
 * **Products Dimension**
-  ![image](https://github.com/user-attachments/assets/261a0171-e9c1-4842-8620-00e46dd9d4f3)
+![image](https://github.com/user-attachments/assets/261a0171-e9c1-4842-8620-00e46dd9d4f3)
 
 * **Sellers Dimension**
-  ![image](https://github.com/user-attachments/assets/0a32ea8f-36f0-42c8-8752-970174a53d25)
+![image](https://github.com/user-attachments/assets/0a32ea8f-36f0-42c8-8752-970174a53d25)
 
 * **Sales Fact**
-  ![image](https://github.com/user-attachments/assets/79acaabe-0963-456e-ac6a-b95cd8c1b18d)
+![image](https://github.com/user-attachments/assets/79acaabe-0963-456e-ac6a-b95cd8c1b18d)
 
 * **Order Fullfillment Fact**
-  ![image](https://github.com/user-attachments/assets/566780d4-6e40-4126-9a47-4d8979a7f9b5)
+![image](https://github.com/user-attachments/assets/566780d4-6e40-4126-9a47-4d8979a7f9b5)
 
 
 ## PHẦN 3: SQL SERVER ANALYSIS SERVICES
